@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo05</string>
+    <string name="subtitle">TVMaze</string>
+    <string name="txt_noConnection">No hay conexión</string>
+    <string name="name_icon_menu">Ordenar por nombre</string>
+    <string name="rating_icon_menu">Ordenar por nota</string>
+</resources>
